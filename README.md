@@ -54,6 +54,6 @@ Build a prototype using HTML and CSS *(Can also use SCSS, SASS, LESS or other ty
 
 You should fork this github repository and upload your work there to share it with us.
 
-Feel free to ask us any questions you have throughout the day. At the end, we’ll meet to discuss your process, results and decisions.
+Feel free to ask us any questions you have throughout the day and to use whatever tools you're comfortable with. At the end, we’ll meet to discuss your process, results and decisions.
 
 Good luck and have fun!
