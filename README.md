@@ -21,7 +21,7 @@ Mandatory links
 
 #### Companies section
 
-Use this [list of logos](https://docs.google.com/spreadsheets/d/1B_JRkkUW2KgO4bBZsxTj9ItvdPE3N7aktkKzOTStsrQ/edit?usp=sharing).
+Use this [list of logos](https://github.com/rubenjsilva/si2020-design-challenge/tree/master/Nest%20Collective%20-%20Companies%20logos).
 
 
 #### Events section
