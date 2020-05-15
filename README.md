@@ -48,12 +48,17 @@ Design a wireframe + high-fidelity mockup
 #### 3. Build
 Build a prototype using HTML and CSS *(Can also use SCSS, SASS, LESS or other type of styling)*
 
+*We suggest you to use the 1º day to tackle the first 2 points (Research and Wireframes) and the 2º day to the last one (Build). But feel free to manage your time as you want*
+
+---
 
 > Be bold, innovative, and think outside of the box! Don't play safe,  mindblow us!
 
+---
 
-You should fork this github repository and upload your work there to share it with us.
 
-Feel free to ask us any questions you have throughout the day and to use whatever tools you're comfortable with. At the end, we’ll meet to discuss your process, results and decisions.
+Use whatever tools you're more comfortable with. Afterwards, you should fork this repository and upload your work there to share it with us.
 
-Good luck and have fun!
+Feel free to ask us any questions you have throughout the day. At the end, we’ll meet to discuss your process, results and decisions.
+
+Good luck and have fun! 😉
